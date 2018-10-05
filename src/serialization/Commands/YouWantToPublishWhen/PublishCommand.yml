@@ -1,0 +1,33 @@
+﻿---
+ID: "1a3fa7d0-7d95-4f84-bc33-25e5e1e53b33"
+Parent: "1e11da2e-db27-4ef0-8482-43dc3d8bf996"
+Template: "c139157b-2f4a-4cb0-8401-47c9fbf18017"
+Path: /sitecore/system/Tasks/Commands/YouWantToPublishWhen/PublishCommand
+DB: master
+SharedFields:
+- ID: "752579a7-ef2f-45b7-b9d1-9b682308b7a5"
+  Hint: Type
+  Value: "Chips.Sitecore.Commands.SimpleInjector.CommandContainerAdapter`1[YouWantToPublishWhen.Commands.Publish.PublishCommand], Chips.Sitecore.Commands.SimpleInjector"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0918de63-33d8-4879-bf0c-caf96d350d78"
+      Hint: Items
+      Type: TreelistEx
+      Value: "{0027F87A-BFEF-44C2-9F4B-0690C9317EC5}"
+    - ID: "1cff5cac-24dc-4ee3-a1e7-da7ae16e7405"
+      Hint: "Publish Sub-items"
+      Type: Checkbox
+      Value: 1
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180702T224942Z
+    - ID: "307be7e0-7eac-4613-b1ad-80667174f255"
+      Hint: Languages
+      Type: Checklist
+      Value: "{AF584191-45C9-4201-8740-5409F4CF8BDD}"
+    - ID: "6174ba26-14a8-438a-bbd7-7494dd488928"
+      Hint: Publish Mode
+      Value: "{9B96A82A-6AA8-4276-A05F-3A38182CB183}"

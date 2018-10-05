@@ -137,7 +137,6 @@
     <Compile Include="Commands\CommandConfiguration.cs" />
     <Compile Include="Commands\CommandConfigurationFactory.cs" />
     <Compile Include="Commands\Publish\PublishConfigurationFactory.cs" />
-    <Compile Include="ExampleCommand.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Commands\Publish\PublishCommand.cs" />
     <Compile Include="Commands\Publish\PublishConfiguration.cs" />
@@ -158,8 +157,10 @@
     <Content Include="App_Config\Include\Unicorn\Unicorn.Configs.Default.example" />
     <Content Include="App_Config\Include\Unicorn\Unicorn.config" />
     <Content Include="App_Config\Include\Unicorn\Unicorn.AutoPublish.config" />
-    <Content Include="App_Config\Include\YouWantToPublishWhen\YouWantToPublishWhen.config" />
-    <None Include="packages.config" />
+    <Content Include="App_Config\Include\YouWantToPublishWhen\Unicorn.Configs.YouWantToPublishWhen.config" />
+    <None Include="packages.config">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

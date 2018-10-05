@@ -1,0 +1,22 @@
+﻿---
+ID: "9b96a82a-6aa8-4276-a05f-3a38182cb183"
+Parent: "24e38a8a-7f56-467a-9365-6770d792b395"
+Template: "ee58c736-201c-46e7-8f28-645558df598c"
+Path: /sitecore/system/Modules/Chips/Commands/Publishing/Publish Options/Smart
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180702T234837Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

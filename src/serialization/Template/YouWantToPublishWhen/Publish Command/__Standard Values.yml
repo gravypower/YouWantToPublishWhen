@@ -1,0 +1,38 @@
+﻿---
+ID: "da66ae77-f237-43d9-a99c-045c0df1b841"
+Parent: "c139157b-2f4a-4cb0-8401-47c9fbf18017"
+Template: "c139157b-2f4a-4cb0-8401-47c9fbf18017"
+Path: /sitecore/templates/YouWantToPublishWhen/Publish Command/__Standard Values
+DB: master
+SharedFields:
+- ID: "4bc75539-d5c4-487b-af35-ff13d62bd286"
+  Hint: Method
+  Value: Execute
+- ID: "752579a7-ef2f-45b7-b9d1-9b682308b7a5"
+  Hint: Type
+  Value: Foundation.Commands.PublishCommand, Foundation
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1cff5cac-24dc-4ee3-a1e7-da7ae16e7405"
+      Hint: "Publish Sub-items"
+      Type: Checkbox
+      Value: 0
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180615T014609Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "6174ba26-14a8-438a-bbd7-7494dd488928"
+      Hint: Publish Mode
+      Value: Smart
+    - ID: "cc45ab21-ae76-4746-be84-183a712971f2"
+      Hint: Source
+      Value: master
+    - ID: "d218115f-8ccf-45d0-9824-a492a44e17d8"
+      Hint: Target
+      Value: web

@@ -1,0 +1,21 @@
+﻿---
+ID: "a406928b-1fa2-4edb-bbea-a2b8517d8ebc"
+Parent: "24e38a8a-7f56-467a-9365-6770d792b395"
+Template: "ee58c736-201c-46e7-8f28-645558df598c"
+Path: /sitecore/system/Modules/Chips/Commands/Publishing/Publish Options/Full
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180702T234729Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "e27a78ed-9ab5-414a-81a2-02f462555b74"
+      Hint: Value
+      Value: Full

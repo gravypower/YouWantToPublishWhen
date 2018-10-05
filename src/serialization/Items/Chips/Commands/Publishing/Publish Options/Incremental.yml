@@ -1,0 +1,18 @@
+﻿---
+ID: "d464e71a-20f5-48cd-9919-afc57e2f351b"
+Parent: "24e38a8a-7f56-467a-9365-6770d792b395"
+Template: "ee58c736-201c-46e7-8f28-645558df598c"
+Path: /sitecore/system/Modules/Chips/Commands/Publishing/Publish Options/Incremental
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180702T234812Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
